@@ -11,11 +11,13 @@ input, button, textarea, select { font: inherit }
 
 section { padding: 4% 20% }
 section *:last-child { margin-bottom: 0 !important }
+body { background-color: #D5CEA3; }
 
 
 h2 {
     font-size: 56px;
     margin-bottom: 4px;
+    color: #1A120B;
 }
 
 h3 {
@@ -26,4 +28,7 @@ h3 {
 p {
     font-size: 20px;
     margin-bottom: 16px
+}
+a { 
+    color: #08050e; 
 }
